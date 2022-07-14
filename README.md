@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoannaCodes
-- 👀 I’m interested in Software, Web, and Game Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in developing Software applications and Web applications
+- 🌱 I’m an aspiring Frontend Engineer
 - 📫 How to reach me: joannamarieb.lara@gmail.com 
 
 
