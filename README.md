@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoannaCodes aka Joanna Marie B. Lara
+- 👋 Hi, I’m @JoannaCodes
 - 👀 I’m interested in developing Software applications and Web applications
 - 🌱 I’m an aspiring Frontend Engineer/Developer
 - 📫 How to reach me: joannamarieb.lara@gmail.com 
