@@ -1,4 +1,4 @@
-#👋 Hi, I’m @JoannaCodes aka Joanna Marie
+# 👋 Hi, I’m @JoannaCodes aka Joanna Marie
 - 👀 I’m interested in developing Software Developement
 - 🌱 I’m an aspiring Frontend Engineer/Developer
 - 📫 How to reach me: joannamarieb.lara@gmail.com 
