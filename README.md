@@ -26,7 +26,7 @@
     "Open-source projects",
   ],
   "background": {
-    "summary": "I have been working in the software industry for over 6 years, focusing on web development and data science. I enjoy building scalable web applications and extracting insights from data using machine learning techniques.",
+    "summary": "I focu on web and mobile development. I enjoy building and designing scalable web applications",
     "experience": [
       {
         "title": "IT Intern",
