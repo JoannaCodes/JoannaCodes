@@ -9,12 +9,15 @@
   "username": "JoannaCodes",
   "bio": "Passionate software developer with expertise in web and mobile development.",
   "location": "Quezon City, PH",
+  "social-media": [
+    "linkedin": "https://www.linkedin.com/in/joanna-lara",
+    "facebook": "https://www.facebook.com/sweetdisposition21",
+    "twitter": "https://twitter.com/jowaniiii",
+  ] 
   "education": [
-    {
-      "degree": "Bachelor of Science in Computer Engineering",
-      "university": "Polytechnic University of the Philippines",
-      "year": 2023
-    },
+    "degree": "Bachelor of Science in Computer Engineering",
+    "university": "Polytechnic University of the Philippines",
+    "year": 2023
   ],
   "interests": [
     "Web & mobile development",
