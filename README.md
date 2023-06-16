@@ -31,13 +31,13 @@
       {
         "title": "IT Intern",
         "company": "Signopsys Inc.",
-        "duration": "August - September 2021",
+        "duration": "August - September 2022",
         "description": "Led a team in the development of one of the companies project. Collaborated with designers and backend developers to create a responsive and user-friendly web application. Implemented best practices, conducted code reviews, and mentored team members to ensure high-quality deliverables."
       },
       {
         "title": "Software Engineer Intern",
         "company": "YouSource Inc.",
-        "duration": "September - November 2022",
+        "duration": "September - November 2021",
         "description": "Contributed as a full-stack developer on the company's project. Collaborated with the team to develop and maintain both frontend and backend components. I was responsible on conducting unit testing on the backend and actively participated in bug fixing and enhancements for the frontend. Gained valuable experience in software development methodologies and worked closely with senior developers to deliver high-quality code."
       }
     ]
