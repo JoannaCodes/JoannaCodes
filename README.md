@@ -26,7 +26,7 @@
     "Open-source projects",
   ],
   "background": {
-    "summary": "I focu on web and mobile development. I enjoy building and designing scalable web applications",
+    "summary": "I focus on web and mobile development. I enjoy building and designing scalable web applications",
     "experience": [
       {
         "title": "IT Intern",
@@ -85,10 +85,6 @@
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-## 🚀 My GitHub History
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoannaCodes)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoannaCodes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Open%20for%20collaboration&fontSize=40&fontColor=303030&section=footer)
