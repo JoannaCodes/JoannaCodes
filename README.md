@@ -25,7 +25,13 @@
     "Full-stack developemt"
     "Open-source projects",
   ],
-  "background": "💼 I have gained valuable experience through internships at Signopsys Inc. and YouSource Inc. During these internships, I led teams, collaborated with designers and backend developers, and implemented best practices to ensure high-quality deliverables.\n\n📚 Alongside my professional experience, I've pursued a Bachelor's degree in Computer Science. I've worked on intriguing projects such as the 'StudyHive Mobile App' and the 'Dishionary Mobile App,' enhancing my UI/UX design skills and developing a strong sense of time management and attention to detail.\n\n🤝 I've also taken on leadership roles, such as Technical Team Leader at PUP CEMIT, where I managed resources, provided training, and offered technical support to the school community.\n\n💻 My technical skills include proficiency in various software and tools, including Firebase, MySQL, Angular, Bootstrap, jQuery, NodeJS, React Native, and more. I'm well-versed in both front-end and back-end development and have a deep understanding of various programming languages.\n\n🛠️ In addition to my technical skills, I pride myself on being a responsible team player with a quick learning capability. I believe that technology is an ever-evolving field, and I'm committed to embracing new challenges and continuously improving my skills.\n\n🌟 Let's connect and collaborate on exciting projects that push the boundaries of what's possible in web and mobile development!",
+  "background": [
+    "💼": "I have gained valuable experience through internships at Signopsys Inc. and YouSource Inc. During these internships, I led teams, collaborated with  designers and backend developers, and implemented best practices to ensure high-quality deliverables.",
+    "📚": "Alongside my professional experience, I've pursued a Bachelor's degree in Computer Science. I've worked on intriguing projects such as the 'StudyHive Mobile App' and the 'Dishionary Mobile App,' enhancing my UI/UX design skills and developing a strong sense of time management and attention to detail.",
+    "🤝": "I've also taken on leadership roles, such as Technical Team Leader at PUP CEMIT, where I managed resources, provided training, and offered technical support to the school community.",
+    "💻": "My technical skills include proficiency in various software and tools, including Firebase, MySQL, Angular, Bootstrap, jQuery, NodeJS, React Native, and more. I'm well-versed in both front-end and back-end development and have a deep understanding of various programming languages.",
+    "🛠️": "In addition to my technical skills, I pride myself on being a responsible team player with a quick learning capability. I believe that technology is an ever-evolving field, and I'm committed to embracing new challenges and continuously improving my skills.\n\n🌟 Let's connect and collaborate on exciting projects that push the boundaries of what's possible in web and mobile development!",
+  ],
   "github": "https://github.com/JoannaCodes",
   "website": "Under Construction..."
 }
@@ -48,7 +54,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -57,20 +62,16 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Stats
-![Joanna Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=joannacodes&show_icons=true&theme=highcontrast)
+![Joanna Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=joannacodes&show_icons=true&theme=dracula)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joannacodes&hide_progress=true)
