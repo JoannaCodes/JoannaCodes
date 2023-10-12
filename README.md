@@ -70,10 +70,10 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Stats
-![Joanna Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![Joanna Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=joannacodes&show_icons=true&theme=highcontrast)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joannacodes&hide_progress=true)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Open%20for%20collaboration&fontSize=40&fontColor=303030&section=footer)
