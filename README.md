@@ -25,23 +25,7 @@
     "Full-stack developemt"
     "Open-source projects",
   ],
-  "background": {
-    "summary": "I focus on web and mobile development. I enjoy building and designing scalable web applications",
-    "experience": [
-      {
-        "title": "IT Intern",
-        "company": "Signopsys Inc.",
-        "duration": "August - September 2022",
-        "description": "Led a team in the development of one of the companies project. Collaborated with designers and backend developers to create a responsive and user-friendly web application. Implemented best practices, conducted code reviews, and mentored team members to ensure high-quality deliverables."
-      },
-      {
-        "title": "Software Engineer Intern",
-        "company": "YouSource Inc.",
-        "duration": "September - November 2021",
-        "description": "Contributed as a full-stack developer on the company's project. Collaborated with the team to develop and maintain both frontend and backend components. I was responsible on conducting unit testing on the backend and actively participated in bug fixing and enhancements for the frontend. Gained valuable experience in software development methodologies and worked closely with senior developers to deliver high-quality code."
-      }
-    ]
-  },
+  "background": "💼 I have gained valuable experience through internships at Signopsys Inc. and YouSource Inc. During these internships, I led teams, collaborated with designers and backend developers, and implemented best practices to ensure high-quality deliverables.\n\n📚 Alongside my professional experience, I've pursued a Bachelor's degree in Computer Science. I've worked on intriguing projects such as the 'StudyHive Mobile App' and the 'Dishionary Mobile App,' enhancing my UI/UX design skills and developing a strong sense of time management and attention to detail.\n\n🤝 I've also taken on leadership roles, such as Technical Team Leader at PUP CEMIT, where I managed resources, provided training, and offered technical support to the school community.\n\n💻 My technical skills include proficiency in various software and tools, including Firebase, MySQL, Angular, Bootstrap, jQuery, NodeJS, React Native, and more. I'm well-versed in both front-end and back-end development and have a deep understanding of various programming languages.\n\n🛠️ In addition to my technical skills, I pride myself on being a responsible team player with a quick learning capability. I believe that technology is an ever-evolving field, and I'm committed to embracing new challenges and continuously improving my skills.\n\n🌟 Let's connect and collaborate on exciting projects that push the boundaries of what's possible in web and mobile development!",
   "github": "https://github.com/JoannaCodes",
   "website": "Under Construction..."
 }
@@ -84,6 +68,10 @@
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=Open%20for%20collaboration&fontSize=40&fontColor=303030&section=footer)
