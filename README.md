@@ -70,7 +70,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## Top Projects
+## 📋 Top Projects
 ### NumBuddy (2021)
 📂[Link to GitHub Repository](https://github.com/Mcube-DevTeam/NumBuddy)
 ### Pet-Patron (2022)
@@ -84,10 +84,10 @@
 
 
 
-## Stats
+## 📊 Stats
 ![Joanna Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=joannacodes&show_icons=true&theme=dracula)
 
-## Top Languages
+## </> Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joannacodes&hide_progress=true)
 
 
