@@ -73,7 +73,7 @@
 ## Top Projects
 ### NumBuddy (2021)
 📂[Link to GitHub Repository](https://github.com/Mcube-DevTeam/NumBuddy)
-## Pet-Patron (2022)
+### Pet-Patron (2022)
 📂[Link to GitHub Repository](https://github.com/JoannaCodes/Pet-Patron)
 ### Sketched (2021)
 [![Watch the video](https://img.youtube.com/vi/6oJW6WWUNjk/hqdefault.jpg)](https://www.youtube.com/watch?v=6oJW6WWUNjk)
