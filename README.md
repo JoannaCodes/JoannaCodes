@@ -11,8 +11,6 @@
   "location": "Quezon City, PH",
   "social-media": [
     "linkedin": "https://www.linkedin.com/in/joanna-lara",
-    "facebook": "https://www.facebook.com/sweetdisposition21",
-    "twitter": "https://twitter.com/jowaniiii",
   ] 
   "education": [
     "degree": "Bachelor of Science in Computer Engineering",
